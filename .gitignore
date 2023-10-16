@@ -1,5 +1,9 @@
+.venv
 venv
 ./venv
 venv/*
 __pycache__
 .idea
+./idea
+.pycharm
+./pycharm
